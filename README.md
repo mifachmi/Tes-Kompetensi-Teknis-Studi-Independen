@@ -1,2 +1,2 @@
 # Tes-Kompetensi-Teknis-Studi-Independen
-Studi Independen - Tes Kompetensi Teknis
+Studi Independen (Menjadi Mobile App Developer dengan Android Kotlin) - Tes Kompetensi Teknis
